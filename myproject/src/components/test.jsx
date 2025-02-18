@@ -1,8 +1,8 @@
-function Test(Props){
+function Test(){
   return(
       <div>
-Hello {Props.name} and my role is{Props.role}
+          <h2>hiiiiiii</h2>
       </div>
   )
 }
-export default Test;
+export default Test;
